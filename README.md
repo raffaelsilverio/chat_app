@@ -1,16 +1,23 @@
-# chat_app
 
-A new Flutter project.
+# Chat App
 
-## Getting Started
+I learned how to integrate Firebase, how to add a dynamic backend to this chat app, and how to use that backend for sending push notifications, and learned how to handle these push notifications in the Flutter app. I also learned how to use Firebase for authenticating users, storing extra data, uploading files to Firebase, and how to then use those files and display those images in the app.
+And I learned how to build this chat app, how to send those messages to Firebase and store them there, and how to make sure this chat app and the screen automatically update whenever new messages are received.
+## Lessons Learned
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+- Firebase
+- Authentication
+- Cloud Firestore
+- Firebase Storage
+- Notification / Firebase Messaging
+## Demo
+(https://www.linkedin.com/feed/update/urn:li:ugcPost:7177709847688200192/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffael-silverio-a47553255/)
+
+
